@@ -5,9 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Doces da Terezinha</title>
+    <title>Martins Doces</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap-sandstone.css" />
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <script src="js/script.js"></script>
 </head>
 
 <body>
@@ -20,14 +23,14 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Doces da Terezinha</a>
+                <a class="navbar-brand" href="#">Martins Doces</a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="index.php">Início <span class="sr-only">(current)</span></a></li>
                     <li><a href="#">Quem somos</a></li>
-                    <li><a href="#">Contato</a></li>
-                    <li><a href="#">Localização</a></li>
+                    <li><a href="././contato.php">Contato</a></li>
+                    <li><a href="././localizacao.php">Localização</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#">Link</a></li>

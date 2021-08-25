@@ -1,0 +1,23 @@
+/*     MAPS       */
+
+
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+
+#map {
+    height: 400px;
+    width: 80%;
+}
+
+.map {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+
+/*      CONTACT FORM        */
